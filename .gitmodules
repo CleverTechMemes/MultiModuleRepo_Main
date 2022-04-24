@@ -1,6 +1,6 @@
 [submodule "my-app"]
 	path = my-app
-	url = ./my-app
+	url = https://github.com/CleverTechMemes/MultiModuleRepo_Frontend.git
 [submodule "myproject"]
 	path = myproject
-	url = ./myproject
+	url = https://github.com/CleverTechMemes/MultiProjectRepo_Backend.git
